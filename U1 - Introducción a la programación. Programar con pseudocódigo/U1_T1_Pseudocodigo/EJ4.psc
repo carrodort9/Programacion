@@ -27,38 +27,38 @@ Algoritmo EJERCICIO4
 		Escribir "Máximo: " n1
 	FinSi
 	
-	Si n2>n1 y n2>n3 y n2>n4 y n2>n5
-		Escribir "Máximo: " n2
-	FinSi
-	
-	Si n3>n1 y n3>n2 y n3>n4 y n3>n5
-		Escribir "Máximo: " n3
-	FinSi
-	
-	Si n4>n1 y n4>n2 y n4>n3 y n4>n5
-		Escribir "Máximo: " n4
-	FinSi
-	
-	Si n5>n1 y n5>n2 y n5>n3 y n5>n4
-		Escribir "Máximo: " n5
-	FinSi
-	
 	Si n1<n2 y n1<n3 y n1<n4 y n1<n5
 		Escribir "Mínimo: " n1
+	FinSi
+	
+	Si n2>n1 y n2>n3 y n2>n4 y n2>n5
+		Escribir "Máximo: " n2
 	FinSi
 	
 	Si n2<n1 y n2<n3 y n2<n4 y n2<n5
 		Escribir "Mínimo: " n2
 	FinSi
 	
+	Si n3>n1 y n3>n2 y n3>n4 y n3>n5
+		Escribir "Máximo: " n3
+	FinSi
+	
 	Si n3<n1 y n3<n2 y n3<n4 y n3<n5
 		Escribir "Mínimo: " n3
+	FinSi
+	
+	Si n4>n1 y n4>n2 y n4>n3 y n4>n5
+		Escribir "Máximo: " n4
 	FinSi
 	
 	Si n4<n1 y n4<n2 y n4<n3 y n4<n5
 		Escribir "Mínimo: " n4
 	FinSi
 	
+	Si n5>n1 y n5>n2 y n5>n3 y n5>n4
+		Escribir "Máximo: " n5
+	FinSi
+
 	Si n5<n1 y n5<n2 y n5<n3 y n5<n4
 		Escribir "Mínimo: " n5
 	FinSi

@@ -31,9 +31,9 @@ Algoritmo EJERCICIO3
 	
 	Para f<-0 Hasta tam-1 Hacer
 		si (f=0) o (f=trunc(tam/2)) o (f=tam-1) Entonces
-			Escribir "XXXXX"
+			Escribir "MMMMM"
 		SiNo
-			Escribir "X---X"
+			Escribir "M---M"
 		FinSi
 		
 	FinPara
